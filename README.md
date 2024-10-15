@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshasingh
 - 👀 I’m interested in Machine Learning and Big Data
-- 🌱 I’m currently learning ML
+- 🌱 I’m an experienced developer cum Data Engineer. Leaded multiple projects end to end.
 - 💞️ I’m looking to collaborate on anything that interests me
 - 📫 Reach me at - https://www.linkedin.com/in/harshasingh29/:)
 
